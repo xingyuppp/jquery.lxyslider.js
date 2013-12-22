@@ -1,5 +1,5 @@
 {
-  "family": "",
+  "family": "Your Family Path",
   "name": "jquery.lxyslider",
   "version": "1.0.0",
   "description": "cmd slider module for seajs",
@@ -19,11 +19,14 @@
   "licenses": "MIT",
   "spm": {
     "output": [
-      "jquery.lxyslider.js",
-      "jquery.lxyslider.css"
+      "jquery.lxyslider.js"
     ],
-    "alias": {},
-    "devAlias": {},
+    "alias": {
+      "jquery" : "Your jQuery"
+    },
+    "devAlias": {
+      "jquery" : "Your jQuery"
+    },
     "engines": {}
   }
 }

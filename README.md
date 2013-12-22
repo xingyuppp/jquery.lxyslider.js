@@ -1,15 +1,6 @@
 # jquery.lxyslider
 
----
-
 My first CMD module for seajs .
-
----
-
-````html
-<div class="-jquery.lxyslider">
-</div>
-````
 
 ======================
 
