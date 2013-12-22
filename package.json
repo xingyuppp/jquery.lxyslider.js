@@ -1,0 +1,29 @@
+{
+  "family": "",
+  "name": "jquery.lxyslider",
+  "version": "1.0.0",
+  "description": "cmd slider module for seajs",
+  "homepage": "https://github.com/xingyuppp/jquery.lxyslider.js",
+  "author": "luxingyu",
+  "maintainers": [
+    "luxingyu"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xingyuppp/jquery.lxyslider.js.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": [
+      "jquery.lxyslider.js",
+      "jquery.lxyslider.css"
+    ],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
